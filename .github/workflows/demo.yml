@@ -31,5 +31,5 @@ jobs:
           with:
             context: .
             push: true
-            tags: simanta/githubcicd:1.1.1
+            tags: rohitballer/githubcicd:1.1.1
 
